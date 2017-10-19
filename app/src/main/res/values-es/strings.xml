@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">el Lab seice</string>
+    <string-array name="my_color_display_array">
+        <item
+            >ROJO</item>
+        <item
+            >NEGRA</item>
+        <item
+            >AZUL</item>
+        <item
+            >ROSA</item>
+        <item
+            >BLANCO</item>
+        <item
+            >CIAN</item>
+        <item
+            >AMARILLO</item>
+        <item
+            >VERDE</item>
+        <item
+            >NEGRO</item>
+    </string-array>
+    <string-array name="my_parse_array">
+        <item
+            >RED</item>
+        <item
+            >GRAY</item>
+        <item
+            >BLUE</item>
+        <item
+            >MAGENTA</item>
+        <item
+            >WHITE</item>
+        <item
+            >CYAN</item>
+        <item
+            >YELLOW</item>
+        <item
+            >GREEN</item>
+        <item
+            >BLACK</item>
+    </string-array>
+</resources>
